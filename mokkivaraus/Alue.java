@@ -19,4 +19,5 @@ public class Alue {
     public void setNimi(String nimi) {
         this.nimi = nimi;
     }
+    //hellouuuu
 }
